@@ -22,7 +22,7 @@ define('SUCCESS_MESSAGE', "Thank you so much! You may now close this page and co
 /*
 // French
 define('PAGE_TITLE', "Vérification requise");
-define('PAGE_TEXT', "Veuillez confirmer que vous êtes un humain en cliquant sur le bouton ci-dessous.<br><input required type='checkbox'> J'accepte les <a href='https://discussionner.com/conditions' target='_blank'>Conditions générales</a></input>");
+define('PAGE_TEXT', "Veuillez confirmer que vous êtes un humain en cliquant sur le bouton ci-dessous.<br><input required type='checkbox'> J'accepte les <a href='#' target='_blank'>Conditions générales</a></input>");
 define('BUTTON_TEXT', "Je suis humain !");
 define('SUCCESS_MESSAGE', "Merci beaucoup ! Vous pouvez maintenant fermer cette page et continuer sur IRC.");
 */
